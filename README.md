@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ouissoune
-- 👀 I’m interested in problem solving
-- 🌱 I’m currently learning c++
-- 
+
 
 
 <!---
